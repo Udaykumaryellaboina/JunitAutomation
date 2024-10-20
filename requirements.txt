@@ -1,0 +1,7 @@
+cryptography==43.0.3
+gradio==5.1.0
+javalang==0.13.0
+protobuf==3.20.3
+pyaes==1.6.1
+streamlit==1.37.1
+#pipreqs C:\Users\LENOVO\Documents\JunitAutomation
